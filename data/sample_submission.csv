@@ -1,0 +1,6 @@
+transaction_id,product_subcategory,placement_score
+TEST_TXN_0001,Bread,50.0
+TEST_TXN_0001,Butter,50.0
+TEST_TXN_0001,Nuts,50.0
+TEST_TXN_0001,Beer,50.0
+TEST_TXN_0005,Cookies,50.0
